@@ -3,6 +3,6 @@ Take your time！
 
 ## About me
 Birthday: 2005/06/04
-Details of activities: 
+Details of activities: I make a website using HTML, JavsScript and CSS.
 
 
