@@ -1,4 +1,3 @@
-<center>
 # Welcome to My Web Site
 Take your time！
 
