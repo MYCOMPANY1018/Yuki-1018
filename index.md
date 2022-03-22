@@ -1,18 +1,14 @@
-# Welcome to My Web Site
+# ようこそ！私のウェブサイトへ
 Take your time！
 
-## About me
-Birthday: 2005/06/04<br>
-Details of activities: I make a website using HTML, JavsScript and CSS.
+## 私について
+誕生日: 2005/06/04<br>
+活動内容: I make a website using HTML, JavsScript and CSS.
 
-## A collection of works
+## 作品集
 
-### Virtual95(Windows95 in your Browser!)
+### 近日公開
 
+## ブログ・記事
 
-### Yuki Games          
-ww
-  
-  
-### www
 <!--shinobi1--><script type="text/javascript" src="//xa.shinobi.jp/ufo/190861601"></script><noscript><a href="//xa.shinobi.jp/bin/gg?190861601" target="_blank"><img src="//xa.shinobi.jp/bin/ll?190861601" border="0"></a><br><span style="font-size:9px"><img style="margin:0;vertical-align:text-bottom;" src="//img.shinobi.jp/tadaima/fj.gif" width="19" height="11"> </span></noscript><!--shinobi2-->
