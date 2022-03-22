@@ -11,3 +11,8 @@ Details of activities: I make a website using HTML, JavsScript and CSS.
 <iframe src="https://bing.com">
 
 ### Yuki Games          
+ww
+  
+  
+### www
+<!--shinobi1--><script type="text/javascript" src="//xa.shinobi.jp/ufo/190861601"></script><noscript><a href="//xa.shinobi.jp/bin/gg?190861601" target="_blank"><img src="//xa.shinobi.jp/bin/ll?190861601" border="0"></a><br><span style="font-size:9px"><img style="margin:0;vertical-align:text-bottom;" src="//img.shinobi.jp/tadaima/fj.gif" width="19" height="11"> </span></noscript><!--shinobi2-->
