@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+
+<style id="webmakerstyle">
+SS Result  
+EDIT ON
+
+ /* resets */
+body { margin:0; padding:0; }
+/* outer container */
+.outside{ 
+  background: #e5e5e5;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -10;
+}
+.containerIpadAir{
+  background-image:url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/101702/ipad-air-horizontal.png');
+  background-size: 1251px 883px;
+  background-color: transparent;
+  width: 1251px;
+  height: 883px;
+  margin: auto;
+  position:absolute;
+  top:0; left:0;bottom:0; right:0;
+}
+
+/*  
+# background-size rule can be removed
+# iPad Air display resolution is 2408 x 1536 retina
+# modify height if you want to test scrolling
+*/
+.innerIpadAir{
+  background-color: #fff;
+  width: 1024px;
+  height: 768px; 
+  /* - 20px for status? */
+  height: 748px;
+  margin: auto;
+  position:absolute;
+  top:40px; /* needs improvement */ 
+  left:0;bottom:0; right:0;
+} 
+
+/* Add your work here */
+.wrapper {}
+</style>
+</head>
+<body>
+<div class="outside">
+  <div class="containerIpadAir">
+    <div class="innerIpadAir">
+      <div class="wrapper">
+      
+        
+        
+        
+        
+      </div> <!--/ .wrapper -->
+    </div> <!--/ .inneriPhone -->
+  </div> <!--/ .containerIphone -->
+</div> <!--/ .outside -->
+
+<script src="filesystem:https://webmaker.app/temporary/script.js">
+</script>
+</body>
+</html>
